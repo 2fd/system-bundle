@@ -1,0 +1,22 @@
+{
+  "name": "system-smart",
+  "version": "0.0.1",
+  "description": "Smart bundle genrator for systemjs/builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "systemjs",
+    "builder",
+    "bundle",
+    "CommonsChunk",
+    "chuck"
+  ],
+  "author": "Fede Ramirez <i@2fd.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^19.0.2",
+    "systemjs-builder": "^0.16.3"
+  }
+}
