@@ -1,5 +1,7 @@
 # system-smart
 
+[![Build Status](https://travis-ci.org/2fd/system-smart.svg?branch=master)](https://travis-ci.org/2fd/system-smart)
+
 Smart bundle genrator for [systemjs/builder](https://github.com/systemjs/builder)
 
 
