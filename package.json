@@ -1,6 +1,6 @@
 {
   "name": "system-smart",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Smart bundle genrator for systemjs/builder",
   "main": "index.js",
   "scripts": {
